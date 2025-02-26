@@ -18,8 +18,8 @@ You can click https://ricebook-hw88.surge.sh/
 
 ## Project Display
 
-![image-20250225211405617](D:\Web App\RiceBook\README.assets\Login Page.png)
+![image-20250225211405617](.\README.assets\Login Page.png)
 
-![image-20250225213013080](D:\Web App\RiceBook\README.assets\Main Page.png)
+![image-20250225213013080](.\README.assets\Main Page.png)
 
-![image-20250225213103525](D:\Web App\RiceBook\README.assets\Profile Pgae.png)
+![image-20250225213103525](.\README.assets\Profile Pgae.png)
